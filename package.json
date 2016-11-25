@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "Mhidou",
+    "email": "mehdi@mhidou.io"
+  },
+  "name": "generator-meteor-guide",
+  "version": "0.0.1",
+  "description": "Meteor guide generator",
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhidou/generator-meteor-guide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mhidou/generator-meteor-guide/issues"
+  },
+  "homepage": "https://github.com/mhidou/generator-meteor-guide#readme",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators/app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
